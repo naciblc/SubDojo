@@ -1,0 +1,5 @@
+virustotal:
+  api_key: ""
+
+securitytrails:
+  api_key: ""
